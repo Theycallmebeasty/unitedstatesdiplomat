@@ -21,7 +21,7 @@ export default function Home() {
       />
       <div className="mt-8">
         <a className="text-4xl underline text-white" href="tel:09053905583">
-          090 533 905 583
+          +1 (548) 200-3983
         </a>
       </div>
     </section>
